@@ -1,0 +1,78 @@
+/* General Reset */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    /* background-color: #f4f4f4; */
+    background-image: url('https://website-admin-api.palmpass.com/upload_file/2024-09-24/d4e5i8wfnt4gzjyqc0.jpg');
+    color: #333;
+  }
+  
+  /* Main Wrapper */
+  div {
+    text-align: center;
+    margin: 20px auto;
+  }
+  
+  /* Header Styling */
+  h1 {
+    font-size: 2.5rem;
+    color: white;
+    margin-bottom: 20px;
+  }
+  
+  /* Navigation Links */
+  nav {
+    margin: 20px 0;
+  }
+  
+  nav a {
+    text-decoration: none;
+    font-size: 1.2rem;
+    color: #007BFF;
+    margin: 0 15px;
+    transition: color 0.3s ease;
+  }
+  
+  nav a:hover {
+    color: #0056b3;
+  }
+  
+  /* Form Inputs */
+  input[type="text"],
+  input[type="password"],
+  button {
+    font-size: 1rem;
+    padding: 10px 15px;
+    margin: 10px 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  input[type="text"]:focus,
+  input[type="password"]:focus {
+    border-color: #007BFF;
+    outline: none;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+  }
+  
+  /* Button Styling */
+  button {
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Message Styling */
+  p {
+    font-size: 1rem;
+    margin-top: 15px;
+    color: #555;
+  }
+  
