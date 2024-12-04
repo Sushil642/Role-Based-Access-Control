@@ -44,9 +44,6 @@ POST /api/auth/register
 
 
 
-## Demo
-
-Insert gif or link to demo
 
 
 ## Deployment
