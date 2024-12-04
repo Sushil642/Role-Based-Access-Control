@@ -110,6 +110,13 @@ I'm a full stack developer...
 
 **Database:** Mongodb
 
+## Role Basesd Access
+**Admin:** Can Access to manager and users' database and he can modify also.
+
+**Manager** Can Access to users' database and can make changes also.
+
+**User*:* Only Access to his personal info.
+
 ## Screenshots
 
 ![image](https://github.com/user-attachments/assets/294179f6-24b1-48bd-90ff-a49283373928)
